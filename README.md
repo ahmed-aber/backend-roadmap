@@ -1,16 +1,12 @@
 \# Backend Roadmap Checklist
 
-
-
 \## Foundation
 
-\- \[ ] Setup Workspace
+\- \[X] Setup Workspace
 
-\- \[ ] Git
+\- \[X] Git
 
-\- \[ ] GitHub
-
-
+\- \[X] GitHub
 
 \## Data Structures
 
@@ -26,8 +22,6 @@
 
 \- \[ ] Hash Table
 
-
-
 \## Algorithms
 
 \- \[ ] Sorting
@@ -35,8 +29,6 @@
 \- \[ ] Binary Search
 
 \- \[ ] Recursion
-
-
 
 \## Backend
 
@@ -59,4 +51,3 @@
 \- \[ ] MongoDB
 
 \- \[ ] Docker
-
