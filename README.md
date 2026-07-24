@@ -10,7 +10,7 @@
 
 \## Data Structures
 
-\- \[ ] Arrays
+\- \[X] Arrays
 
 \- \[ ] Strings
 

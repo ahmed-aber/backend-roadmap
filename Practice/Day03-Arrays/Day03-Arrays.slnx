@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="01-Traverse/01-Traverse.csproj" />
+  <Project Path="02-Search/02-Search.csproj" />
+  <Project Path="03-Insert/03-Insert.csproj" />
+  <Project Path="04-Delete/04-Delete.csproj" />
+</Solution>
