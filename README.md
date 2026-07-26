@@ -12,9 +12,9 @@
 
 \- \[X] Arrays
 
-\- \[ ] Strings
+\- \[X] Strings
 
-\- \[ ] Linked Lists
+\- \[X] Linked Lists
 
 \- \[ ] Stack
 
