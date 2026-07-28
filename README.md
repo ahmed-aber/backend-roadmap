@@ -16,9 +16,9 @@
 
 \- \[X] Linked Lists
 
-\- \[ ] Stack
+\- \[X] Stack
 
-\- \[ ] Queue
+\- \[X] Queue
 
 \- \[ ] Hash Table
 
