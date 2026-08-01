@@ -20,7 +20,7 @@
 
 \- \[X] Queue
 
-\- \[ ] Hash Table
+\- \[X] Hash Table
 
 \## Algorithms
 
@@ -28,7 +28,7 @@
 
 \- \[ ] Binary Search
 
-\- \[ ] Recursion
+\- \[X] Recursion
 
 \## Backend
 
@@ -51,3 +51,4 @@
 \- \[ ] MongoDB
 
 \- \[ ] Docker
+
